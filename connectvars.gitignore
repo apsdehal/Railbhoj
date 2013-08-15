@@ -1,0 +1,7 @@
+<?php
+  // Define database connection constants
+  define('DB_HOST', 'mysql14.000webhost.com');
+  define('DB_USER', 'a7232816_aps');
+  define('DB_PASSWORD', 'welcome07');
+  define('DB_NAME', 'a7232816_general');
+?>

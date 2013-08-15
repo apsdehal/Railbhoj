@@ -1,0 +1,27 @@
+#imageBanner {
+	width:1107px;
+	height:210px;
+	position:absolute;
+	bottom:-210px;
+	
+ 
+}
+#imageBanner ul{
+	margin:0 auto;
+}
+#imageBanner > ul{
+	position:relative;
+	left:120px;
+}
+#imageBanner ul li {
+	list-style-type:none;
+	float :left;}
+#imageBanner ul li img{
+	margin:5px 0px;	
+	border:2px solid #000;
+	border-collapse:collapse;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+	
+	}

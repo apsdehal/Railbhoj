@@ -1,0 +1,98 @@
+#form {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	line-height: 15px;
+	font-weight: bold;
+	width: 510px;
+	position:relative;
+	top:-100px;
+	left:60px;
+	}
+	
+#form form fieldset table tr td{
+	height:20px;width:185px;
+	margin:auto auto;
+}
+#form form fieldset table tr td input {
+	font-weight: normal;
+	margin: 15px;
+	margin-top:4px;
+	height: 14px;
+	width: 170px;
+	padding-top: 2px;
+	padding-right: 3px;
+	padding-bottom: 2px;
+	padding-left: 10px;
+	border: thin inset #000;
+}
+#form form fieldset table tr td input:focus {
+		border: 2px solid #045fb4;
+}
+#form form fieldset table tr td label {
+	height: 20px;
+	width: 185px;
+	padding-top: 2px;
+	padding-right: 3px;
+	padding-bottom: 0px;
+	padding-left: 10px;
+	margin:3px;
+	color:#084b8a;
+	font-family: 'Gabriela', serif;
+}
+input[type=submit] {
+	margin-left:15px;
+	margin-top:5px;
+	width:100px;
+	height:25px;
+	background-color:#084b8a;
+	color:#fff;
+	font-weight:bold;
+	border:outset thin #fff;	}
+input[type=submit]:hover {
+	cursor:pointer;
+	border:1.5px solid #111;
+}
+input[type=reset] {
+	margin-left:15px;
+	margin-top:5px;
+	width:100px;
+	height:25px;
+	background-color:#084b8a;
+	color:#fff;
+	font-weight:bold;
+	border:outset thin #fff;	}
+input[type=reset]:hover {
+	cursor:pointer;
+	border:1.5px solid #111;
+}
+#preferences {
+	position: relative;
+	height:293px;
+	width: 450px;
+	left:590px;
+	top:-398px;
+	border:2px solid #a8d3e5;
+	font-family:'Gabriela', serif;
+
+}
+legend {
+	color:#A8D3E5;
+	font-style:italic;
+}
+fieldset {
+	border:2px solid #a8d3e5;}
+a:link {
+	color:blue;
+	text-decoration:none;
+}
+a:visited {
+	color:blue;
+	text-decoration:none;
+}
+#preferences ul li{
+	list-style-image:url(../images/liststyle.png);}
+	
+.blue{
+	color:#084b8a;
+}
+		
